@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <g stroke="#1b2233" stroke-width="6" stroke-linejoin="round" stroke-linecap="round">
+    <!-- legs -->
+    <path d="M40 96 L28 118 M88 96 L100 118 M52 104 L46 124 M76 104 L82 124" stroke-width="7" fill="none"/>
+    <!-- arms -->
+    <path d="M32 74 L12 84 L20 96" fill="#c94b52"/>
+    <path d="M96 74 L116 84 L108 96" fill="#c94b52"/>
+    <!-- shell -->
+    <ellipse cx="64" cy="66" rx="34" ry="32" fill="#c94b52"/>
+    <!-- armour plates -->
+    <path d="M38 56 A30 26 0 0 1 90 56" fill="none" stroke-width="5" opacity="0.55"/>
+    <path d="M64 38 L64 94" stroke-width="4" opacity="0.35"/>
+    <!-- helmet -->
+    <circle cx="64" cy="46" r="16" fill="#8f2f38"/>
+    <!-- visor -->
+    <path d="M52 46 Q64 55 76 46" fill="none" stroke="#ffab3d" stroke-width="5"/>
+    <!-- eyes glow -->
+    <circle cx="57" cy="44" r="3" fill="#ffe9a8" stroke="none"/>
+    <circle cx="71" cy="44" r="3" fill="#ffe9a8" stroke="none"/>
+  </g>
+</svg>

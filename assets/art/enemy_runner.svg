@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <g stroke="#1b2233" stroke-width="6" stroke-linejoin="round" stroke-linecap="round">
+    <!-- speed lines -->
+    <path d="M18 54 L4 54 M22 74 L6 74 M24 94 L10 94" stroke-width="5" opacity="0.35" stroke="#f08a3c"/>
+    <!-- legs -->
+    <path d="M54 94 L40 120 M74 94 L88 120" stroke-width="7" fill="none"/>
+    <!-- arms -->
+    <path d="M44 74 L26 92 L36 102" fill="#f08a3c"/>
+    <path d="M84 74 L102 92 L92 102" fill="#f08a3c"/>
+    <!-- lean body -->
+    <ellipse cx="64" cy="64" rx="24" ry="32" fill="#f08a3c" transform="rotate(-8 64 64)"/>
+    <!-- head -->
+    <circle cx="64" cy="34" r="14" fill="#c46b22"/>
+    <path d="M56 30 L70 34 L56 39" fill="#fff1c9" stroke="none"/>
+    <!-- chest plate -->
+    <path d="M48 66 L64 60 L80 66 L74 88 L54 88 Z" fill="#ffe0b0" opacity="0.45" stroke="none"/>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <g stroke="#1b2233" stroke-width="8" stroke-linejoin="round" stroke-linecap="round">
+    <!-- concrete pad -->
+    <circle cx="128" cy="136" r="108" fill="#4d5a6b"/>
+    <circle cx="128" cy="136" r="92" fill="#5f6d7c"/>
+    <path d="M128 44 L128 60 M128 212 L128 228 M36 136 L52 136 M204 136 L220 136" stroke-width="6" opacity="0.5"/>
+    <!-- hazard ring -->
+    <circle cx="128" cy="136" r="72" fill="none" stroke="#ffab3d" stroke-width="10" stroke-dasharray="18 14"/>
+    <!-- tower base -->
+    <rect x="90" y="90" width="76" height="76" rx="16" fill="#f6e7cd"/>
+    <!-- solar / roof plates -->
+    <path d="M90 108 L166 108" stroke-width="6" opacity="0.5"/>
+    <path d="M90 148 L166 148" stroke-width="6" opacity="0.5"/>
+    <!-- antenna mast -->
+    <path d="M128 90 L128 46" stroke-width="8"/>
+    <circle cx="128" cy="36" r="12" fill="#43d9c4"/>
+    <path d="M100 60 A40 40 0 0 1 156 60" fill="none" stroke-width="5" opacity="0.6"/>
+    <!-- glowing core -->
+    <circle cx="128" cy="128" r="22" fill="#ffab3d"/>
+    <circle cx="128" cy="128" r="11" fill="#ffe9a8" stroke="none"/>
+  </g>
+</svg>

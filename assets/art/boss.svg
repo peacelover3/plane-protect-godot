@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <g stroke="#1b2233" stroke-width="14" stroke-linejoin="round" stroke-linecap="round">
+    <!-- leg platforms -->
+    <path d="M96 300 L36 360 L62 412 L118 380 Z" fill="#4d5a6b"/>
+    <path d="M416 300 L476 360 L450 412 L394 380 Z" fill="#4d5a6b"/>
+    <path d="M120 404 L84 468 M392 404 L428 468" stroke-width="18" fill="none"/>
+    <!-- side cannons -->
+    <rect x="18" y="196" width="86" height="52" rx="22" fill="#5f6d7c"/>
+    <rect x="408" y="196" width="86" height="52" rx="22" fill="#5f6d7c"/>
+    <rect x="2" y="212" width="32" height="20" rx="8" fill="#ffab3d"/>
+    <rect x="478" y="212" width="32" height="20" rx="8" fill="#ffab3d"/>
+    <!-- siege hull -->
+    <rect x="84" y="170" width="344" height="220" rx="70" fill="#6d7f8f"/>
+    <!-- armour plating -->
+    <path d="M120 200 L392 200" stroke-width="10" opacity="0.45"/>
+    <path d="M120 246 L392 246" stroke-width="6" opacity="0.25"/>
+    <path d="M120 316 L392 316" stroke-width="6" opacity="0.25"/>
+    <!-- hazard stripes -->
+    <rect x="150" y="338" width="212" height="18" rx="9" fill="#ffab3d" stroke="none"/>
+    <!-- central reactor -->
+    <circle cx="256" cy="272" r="66" fill="#3d4658"/>
+    <circle cx="256" cy="272" r="46" fill="#c94b52"/>
+    <circle cx="256" cy="272" r="24" fill="#ffe9a8" stroke="none"/>
+    <circle cx="256" cy="272" r="10" fill="#fff" stroke="none"/>
+    <!-- command dome -->
+    <ellipse cx="256" cy="170" rx="96" ry="60" fill="#8b9aa8"/>
+    <circle cx="256" cy="150" r="26" fill="#43d9c4"/>
+    <!-- main cannon -->
+    <rect x="238" y="40" width="36" height="96" rx="14" fill="#3d4658"/>
+    <rect x="226" y="20" width="60" height="30" rx="12" fill="#ffab3d"/>
+    <!-- spike details -->
+    <path d="M168 210 L184 194 M344 210 L328 194" stroke-width="10"/>
+  </g>
+</svg>

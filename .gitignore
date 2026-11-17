@@ -1,0 +1,8 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+/build/
+*.tmp
+
+# Private Discord webhook — copy discord_config.example.gd and fill it in.
+discord_config.gd
